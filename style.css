@@ -1,0 +1,14 @@
+#content {
+	min-height: 100vh;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	text-align: center;
+}
+
+#svg-graphic {
+	border: 1px solid #CCC;
+	margin-top: 50px;
+	background-color: white;
+}
