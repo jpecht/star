@@ -1,7 +1,7 @@
 star
 ====
 
-customizable svg drawing of a star
+customizable svg drawing of a star using [d3](https://github.com/mbostock/d3)
 
 ![star](http://www.jpecht.com/img/star_screenshot.png)
 
